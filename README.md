@@ -1,1 +1,1 @@
-# my-favourite-emoji
+# my_emojis
